@@ -1,0 +1,11 @@
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\bin\Debug\networkPeripherals.exe.config
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\bin\Debug\networkPeripherals.exe
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\bin\Debug\networkPeripherals.pdb
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\obj\Debug\networkPeripherals.Form1.resources
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\obj\Debug\networkPeripherals.Properties.Resources.resources
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\obj\Debug\networkPeripherals.csproj.GenerateResource.Cache
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\obj\Debug\networkPeripherals.exe
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\obj\Debug\networkPeripherals.pdb
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\bin\Debug\WindowsInput.dll
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\bin\Debug\WindowsInput.xml
+A:\PC\Dropbox\Desktop\2 ICA\Bored\networkPeripherals\networkPeripherals\obj\Debug\networkPeripherals.csprojResolveAssemblyReference.cache
